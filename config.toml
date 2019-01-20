@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "A Hugo website"
+title = "J Cunningham!"
 theme = "hugo-lithium"
 googleAnalytics = ""
 disqusShortname = ""
@@ -37,3 +37,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     height = 50
     alt = "Logo"
 
+    author = "James Cunningham"
+    dateFormat = "2006-01-02"
