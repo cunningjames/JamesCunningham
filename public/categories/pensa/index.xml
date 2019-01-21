@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J Cunningham!</title>
-    <link>/</link>
-    <description>Recent content on J Cunningham!</description>
+    <title>Pensa on J Cunningham!</title>
+    <link>/categories/pensa/</link>
+    <description>Recent content in Pensa on J Cunningham!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 20 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/pensa/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,24 +19,6 @@
       <guid>/latin/familia_romana_pensa_xi/</guid>
       <description>PENSUM A Membra corporis hūmānī sunt duo bracchia et duo crūra. In corpore hūmanō unum caput est, nōn duo capita. In capite sunt duae aurēs et ūnum ōs. In ōre sunt dentēs. In pectore ūnum cor et duo pulmōnēs sunt.
 Medicus Quīntum super lectum iacēre videt; medicus puerum dormīre videt. Medicus: &amp;ldquo;Quīntus dormit.&amp;rdquo; Medicus &amp;lsquo;Quīntum dormīre&amp;rsquo; dīcit. Medicus puerum linguam ostendere iubet, et &amp;lsquo;linguam eius rubram esse&amp;rsquo; dīcit. Puer dīcit &amp;lsquo;pedem et caput dolēre.</description>
-    </item>
-    
-    <item>
-      <title>Testing</title>
-      <link>/2019/01/20/testing/</link>
-      <pubDate>Sun, 20 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/2019/01/20/testing/</guid>
-      <description>This is a test of the emergency broadcast system. Do not be alarmed. Just ignore it. What is &amp;ldquo;it&amp;rdquo;? A TEST.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Sat, 19 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>First pass at a website for J Cunningham, a mile wide and an inch deep.</description>
     </item>
     
   </channel>
