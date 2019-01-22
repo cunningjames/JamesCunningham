@@ -51,3 +51,11 @@ Venter infrā pulmōnēs est.
 Quīntus cibum sūmere nōn potest nam is nōn sānus est.
 
 Quīntus nōn sōlus, sed apud Syram et matrem suam est.
+
+Medicus dē oppidō arcessitur.
+
+In ōre puerī Medicus dentem nigrum aegrum videt.
+
+In bracchiō sanguinem fluere sentit.
+
+Syra Quīntum mortuum esse putat quia spīrāre eum nōn audit.
