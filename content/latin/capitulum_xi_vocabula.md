@@ -42,12 +42,12 @@ culter, -trī (m, 3)<br>
 
 ## ADJECTĪVĪ
 
-hūmānūs, -a, -um (1/2)<br>
-stultus, -a, -um (1/2)<br>
-ruber, -bra, -brum (1/2)<br>
-sānus, -a, -um (1/2)<br>
-aeger, -gra, -grum (1/2)<br>
-noster, -tra, -trum (1/2)<br>
+hūmānūs, -a, -um (1-2)<br>
+stultus, -a, -um (1-2)<br>
+ruber, -bra, -brum (1-2)<br>
+sānus, -a, -um (1-2)<br>
+aeger, -gra, -grum (1-2)<br>
+noster, -tra, -trum (1-2)<br>
 
 ## ADVERBIA
 
@@ -78,8 +78,10 @@ dētergēo, -ēre (2)<br>
 possum, posse, potuī (Irr)<br>
 
 ## PRAEPOSITIŌNĒS
-super<br>
-īnfrā<br>
-dē<br>
+super (acc; abl with verbs of rest)<br>
+īnfrā (acc)<br>
+dē (abl)<br>
+
+## CONJUNCTIŌNĒS
 atque<br>
 nec<br>
