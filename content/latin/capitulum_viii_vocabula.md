@@ -14,25 +14,25 @@ tags: [vocabula]
 
 ## VOCABULA
 
-taberna (f, 1)<br>
-gemma (f, 1)<br>
-margarīta (f, 1)<br>
-tabernārius (m, 2)<br>
-ōrnāmentum (n, 2)<br>
-ānulus (m, 2)<br>
-līnea (f, 1)<br>
-digitus (m, 2)<br>
-collum (n, 2)<br>
-pretium (n, 2)<br>
-sēstertius (m, 2)<br>
-pecūniōsus (m, 2)<br>
-gemmātus (m, 2)<br>
-medius (m, 2)<br>
-quārtus (m, 2)<br>
+taberna, -ae (f, 1)<br>
+gemma, -ae (f, 1)<br>
+margarīta, -ae (f, 1)<br>
+tabernārius, -ī (m, 2)<br>
+ōrnāmentum, -ī (n, 2)<br>
+ānulus, -ī (m, 2)<br>
+līnea, -ae (f, 1)<br>
+digitus, -ī (m, 2)<br>
+collum, -ī (n, 2)<br>
+pretium, -ī (n, 2)<br>
+sēstertius, -ī (m, 2)<br>
 prōnōmen (n, 3)<br>
 
 ## ADJECTĪVĪ
 
+pecūniōsus, (1-2)<br>
+gemmātus (1-2)<br>
+medius (1-2)<br>
+quārtus (1-2)<br>
 tantus (1-2)<br>
 quantus (1-2)<br>
 
